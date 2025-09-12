@@ -41,8 +41,8 @@ Siga os passos abaixo para configurar e executar o projeto em seu ambiente local
 ### 2. Clone o Repositório
 
 ```bash
-git clone Sistema-RAG-Opnai
-cd Sistema-RAG-Opnai
+git clone Sistema-RAG-Openai
+cd Sistema-RAG-Openai
 ```
 
 ### 3. Crie um Ambiente Virtual (Recomendado)
