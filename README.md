@@ -41,8 +41,8 @@ Siga os passos abaixo para configurar e executar o projeto em seu ambiente local
 ### 2. Clone o Repositório
 
 ```bash
-git clone <url-do-seu-repositorio>
-cd <nome-do-repositorio>
+git clone Sistema-RAG-Opnai
+cd Sistema-RAG-Opnai
 ```
 
 ### 3. Crie um Ambiente Virtual (Recomendado)
@@ -50,7 +50,7 @@ cd <nome-do-repositorio>
 ```bash
 # Windows
 python -m venv venv
-venv\Scripts\activate
+\venv\Scripts\activate
 
 # macOS / Linux
 python3 -m venv venv
