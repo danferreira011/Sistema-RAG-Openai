@@ -41,7 +41,7 @@ Siga os passos abaixo para configurar e executar o projeto em seu ambiente local
 ### 2. Clone o Repositório
 
 ```bash
-git clone Sistema-RAG-Openai
+git https://github.com/danferreira011/Sistema-RAG-Openai.git
 cd Sistema-RAG-Openai
 ```
 

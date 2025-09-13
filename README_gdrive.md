@@ -22,8 +22,8 @@ O processo é semelhante ao original, mas com um passo crucial de configuração
 ### 2. Clone o Repositório e Instale as Dependências
 
 ```bash
-git clone <URL_DO_SEU_REPOSITORIO>
-cd <NOME_DO_DIRETORIO>
+git https://github.com/danferreira011/Sistema-RAG-Openai.git
+cd Sistema-RAG-Openai
 
 # Crie um ambiente virtual
 python -m venv venv
